@@ -1,2 +1,0 @@
-# richardgozali.github.io
- 
