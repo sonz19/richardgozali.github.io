@@ -1,6 +1,6 @@
 {
-  "name": "Instagram as Progressive Web App",
-  "short_name": "PWAGram",
+  "name": "Food Recipes",
+  "short_name": "Delicious",
   "icons": [
     {
       "src": "/src/img/core-img/cake2.png",
